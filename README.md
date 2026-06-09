@@ -15,6 +15,6 @@ A content-based recommendation system built using:
 
 ## Run
 
-pip install -r requirements.txt
-python train.py
-python app.py
+- pip install -r requirements.txt
+- python train.py
+- python app.py
